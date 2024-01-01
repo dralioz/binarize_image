@@ -1,0 +1,7 @@
+"""
+1- Alternative one is to rewrite sbb_binarization 
+2- Create a new method after understand the logic and mathematic of adaptive and otsu threshold. 
+3- Create an algorithm which move a kernel like nxn matrix to apply binarization.
+4- Create an algorithm which move a kernel like nxn matrix to understand blur ratio of the image.
+5- Create an algortihm which move a kernel like nxn matrix to mask blurry areas on image. 
+"""
